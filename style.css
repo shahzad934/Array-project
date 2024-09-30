@@ -1,0 +1,67 @@
+body{
+    background-image: url(pngtree-abstract-background-3d-blue-glowing-visualization-of-soundwave-big-data-array-image_13566561.png);
+    background-size: 40cm;
+    background-repeat: no-repeat;
+}
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+  }
+  
+  marquee {
+    background-color: white;
+    color:black;
+    font-weight: bold;
+    
+    
+  }
+  
+  h2 {
+    margin-bottom: 20px;
+    color: white;
+  }
+  
+  input[type="text"] {
+    padding: 10px;
+    font-size: 18px;
+
+    border-radius: 35px;
+    width: 30%;
+  }
+  
+  .btn {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.btn:hover {
+  background-color: #0056b3;
+}
+
+#a2 {
+  margin-top: 20px;
+}
+
+#a2 ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#a2 li {
+  padding: 10px;
+  background-color: #fff;
+  border-bottom: 1px solid #ccc;
+}
+
+#a2 li:last-child {
+  border-bottom: none;
+}
+
+
+
